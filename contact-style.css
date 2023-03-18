@@ -1,0 +1,83 @@
+.triangle1-divider.shape-fill {
+    fill: #D56756;
+}
+.importance-title h1 {
+    color: white;
+}
+.textbox1{
+    width: 700px;
+    height: 320px;
+    margin-left:180px;
+    background: #362c23;
+    opacity: .8 
+}
+.importance-description{
+    color:white;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 15px;
+    margin-top:-300px;
+    margin-left:200px;
+}
+ *{
+    box-sizing: border-box;
+  }
+
+  /* Style inputs */
+  input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #2f302f;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #545554;
+  }
+  
+ 
+  .Contact {
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 60px;
+    font-size: 30px;
+
+  }
+  .contact-img{
+      margin-left: 100px;
+      margin-top: 70px;
+  }
+
+  .contact-info{
+    float: right;
+    width: 50%;
+    margin-top: -570px;
+    padding: 20px;
+    font-size: 15px;
+  }
+  .button{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button:hover{ background-color: white;
+    border: 1px solid black;
+    color: black;
+  }
